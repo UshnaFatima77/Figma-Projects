@@ -15,3 +15,8 @@ https://www.figma.com/design/23vDZDhWWycsTaksMiaykq/Job-portal-UI?node-id=0-1&t=
 ##Intern task management UI
 [view project in figma]
 https://www.figma.com/design/U7qurPlZcLWI1uSTx2KZ8x/Intern-Task-Management?node-id=0-1&t=0EtyEBwr6zn2FOPP-1
+
+
+##AI interview preparation platform
+[view project in figma]
+https://www.figma.com/design/7lv7VT0rjcxcJWTigUrR0u/Ai-interview-Platform-UI?node-id=0-1&t=ZmYBtQSHtdy4GM94-1
